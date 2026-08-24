@@ -1,0 +1,17 @@
+{
+  "name": "Mapa da Comunidade",
+  "short_name": "Mapa Comunidade",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#e63946",
+  "description": "Mapa colaborativo de reclamações da comunidade",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
